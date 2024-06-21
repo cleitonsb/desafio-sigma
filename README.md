@@ -18,7 +18,8 @@ O objetivo desse desafio é atestar a competência técnica na solução de tare
 - Criar o modelo de banco com qualquer SGDB opensource;
 - Adotar alguma técnica de autenticação (sessão, jwt, oauth);
 - Criar um teste unitário para cada método;
-- Criar a infraestrutura com Docker/Docker Compose
+- Criar a infraestrutura com Docker/Docker Compose;
+- Ao finalizar, enviar o link do repositório para o recrutador através dos canais disponibilizados; 
 
 ## Requisitos
 - Eu como usuário desejo realizar autenticação;
