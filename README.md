@@ -2,9 +2,9 @@
 
 ## Antes de começar
 
-O objetivo desse desafio é atestar a competência técnica na solução de tarefas comuns no desenvolvimento de sistemas. Você pode consultar qualquer material disponível e tirar suas dúvidas a quelauqer momento com o recrutador.
+O objetivo desse desafio é atestar a competência técnica na solução de tarefas comuns no desenvolvimento de sistemas. Você pode consultar qualquer material disponível e tirar suas dúvidas a qualquer momento com o recrutador.
 
-## Objetivos
+## Objetivos práticos
 - Testar a lógica no versionamento de código (Utilizar o gitflow);
 - Testar a familiaridade com padrões de desenvolvimento;
 - Testar a adoção de boas práticas no desenvolvimento (SOLID);
